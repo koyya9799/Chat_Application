@@ -1,4 +1,4 @@
-# Chat_Application
+# Realtime_Chat_Application
 
 company: CODTECH IT SOLUTIONS
 
